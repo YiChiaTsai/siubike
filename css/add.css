@@ -1,0 +1,27 @@
+#exhibition ul {
+    list-style: none; /* 拿掉點點*/
+ }
+
+ .team-right{
+ 	text-align: center;
+ }
+
+ .team-member img{
+ 	margin: 0px auto;
+ 	text-align: center;
+ }
+
+ .team-left{
+ 	text-align: center;
+ }
+
+ .video {
+ 	text-align: center;
+ }
+ .translate {
+ 	color: #2B3D4F;
+ }
+
+ .navbar-left {
+ 	margin: 60px;
+ }
